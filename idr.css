@@ -1,0 +1,129 @@
+* {
+    margin: 0px;
+}
+.grid {
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first_row {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.sfg_1 {
+    height: 200px;
+    width: 820px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sfg_2 {
+    height: 200px;
+    width: 500px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second_box_first_row {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;    
+}
+.ssg_1 {
+    height: 200px;
+    width: 500px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ssg_2 {
+    height: 200px;
+    width: 820px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second_box_second_row {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.stg_1 {
+    height: 200px;
+    width: 400px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.stg_2 {
+    height: 200px;
+    width: 400px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stg_3 {
+    height: 200px;
+    width: 400px;
+    background-color: cadetblue;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second_box_third_row {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.first_box {
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    margin: 10px;
+}
+.second_box {
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    margin: 10px;
+}
+.container {
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    margin: 10px;
+}
